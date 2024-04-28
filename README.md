@@ -1,1 +1,1 @@
-# Projekt-na-programowanie-obiektowe-WSB-
+# Projekt-na-programowanie-obiektowe-WSB
